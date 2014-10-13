@@ -38,18 +38,8 @@ This is an idea coined by Robin Sloan in his book Mr Penumbra's 24-Hour Bookstor
 
 Quality Time
 
-My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. I see 3 kinds of quality time that we should seek out. The first is quality time with our own selves. Know thyself, and in the process find our deep interests and find people that we can connect deeply with. The second is quality time with those interests, and the third is quality time with those people we can connect deeply with. They each feed into each other, you can't really connect deeply with others until you know yourself sufficiently well. And often times interests are strengthened by having people you can connect with and share with. It seems pretty ungameable to me. Seek quality time with yourself, your interests, and others and you will not regret anything on your death bed (see The Death Bed Game for more thoughts around that).
+My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. I see 3 kinds of quality time that we should seek out. The first is quality time with our own selves. Know thyself, and in the process find our deep interests and find people that we can connect deeply with. The second is quality time with those interests, and the third is quality time with those people we can connect deeply with. They each feed into each other, you can't really connect deeply with others until you know yourself sufficiently well. And often times interests are strengthened by having people you can connect with and share with. It seems pretty ungameable to me. Seek quality time with yourself, your interests, and others and you will not regret anything on your death bed.
 
-Kiloslog
-
-My 37th year started off on an exploration of the kiloslog, which is my made-up word representing the idea of working slowly towards a distant goal (see 1 Metric Kiloslog for a full explanation). I set the goal to do 1,000 small things that would get me closer to running a marathon. I've been thinking about this all year and ended up finally going on a couple 5+ mile runs in the last few weeks after spending almost an entire year working on knee issues. I actually felt quite victorious even with this small goal since the frustration of this particular knee issue has felt extremely frustrating in its lack of progress despite PT, stretching, and lots of patience. I'm still not entirely sure that I'll be able to fully recover without giving in to knee surgery, but since it's gotten a bit better recently I'm holding out hope. That said, I also have a referral for a good local orthopedic surgeon to take a look the second I lose hope. I did stop using technology to track my progress around 900/1000, because I found that the work of tracking was as difficult as the work itself. A common theme in my frustrations with quantified self and self-tracking in general.
-
-In addition to working on the kiloslog towards running a marathon, I've also started fixating on an even longer-term health vision: to ride a bike on my 100th birthday. I like thinking about this for a couple reasons:
-
-It's a silly visualization. I can actually sort of picture myself, aged 100, getting on a bike and wobbling down the street. Perhaps a crowd is cheering me on. Perhaps we live in a cloud city and we're all cyborgs. The daydream is ripe with material to play around with.
-It gives my progress towards health a purpose. The intrinsic motivation that this taps into is part of my core quality of life motivation. I want to enjoy a long, healthy life, for the purposes of enjoying it all the way through to a simple activity on my 100th birthday.
-It's flexible in the short-term but encourages long-term consistency. I don't have to sweat the small things that aren't going to make a long-term impact, simply because they are part of some program that's supposed to have a short term impact.
-This single, silly, vivid health vision informs my eating habits, my exercise routine (for the kiloslog and other stuff), my stress levels, my creativity, and my social habits. It's a single ribbon that ties it all together, paces me, keeps and makes me happy to think about.
 
 Optionality
 
@@ -60,7 +50,7 @@ There should be relatively quick feedback loops. The period of time between “s
 The adaptations must have some element of randomness. In other words, variety must not decrease over time, even if the environment becomes predictable. Eventually the environment will change in a new way, and then the variety will need to be sufficient to survive an unexpected change. If a green-egg eating monster turns into a red-egg eating monster, there should be some non-red eggs, and maybe even some green eggs, around.
 This makes logical sense, but in practice it seems counter-intuitive to build systems with high optionality. We tend to build systems that converge on a single design over time (see monocultures) because they are predictable and efficient in a given environment. But environments change, and without the ability to predict how those changes will happen ahead of time, optionality is required even in the safest of environments.
 
-I rambled on even longer about this topic here: Live like a hydra.
+
 
 Soloverse
 
