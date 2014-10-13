@@ -9,7 +9,7 @@ Things I’d like to have primed in my brain every morning. This is stuff curren
 
 Cultivate quality time: With myself, with other people, and with my interests.
 Look at what's uneasy: Don't avoid the unresolved, unwanted, conflicted things that would benefit from attention.
-Slog towards riding a bike on my 100th birthday: Eat mostly plants. Exercise regularly. Think decades, not days.
+Eat mostly plants. Exercise regularly. Think decades, not days.
 Review/update this list
 Review Every Month
 
@@ -22,7 +22,7 @@ Write a new Monthly Report and share
 Review/update this list
 Review Every Year
 
-Things I've learned and want to remind myself of every year on my birthday (May 28).
+Things I've learned and want to remind myself of every year on my birthday (January 14).
 
 Review my Monthly Reports from the year
 Review my Yearly Reports
@@ -30,7 +30,7 @@ Write a new Yearly Review and share
 Review/update this list
 Lexicon
 
-This is an list of ideas that have gotten hopelessly stuck in my brain.
+
 
 Codex Vitae
 
@@ -74,17 +74,7 @@ The soloverse is our local cache of the universe. When we’re babies, our cache
 What we think of as the universe is actually our soloverse. From these basic building blocks we create beliefs and build simulations that allow us to predict future occurrences (if I cry, mom will come to me). At some point we arrive at a concept of our own selves and other people. “The concept of a person is arguably the most important interface ever developed.”?—?Kevin Smokler
 The soloverse contains gods and archetypes. Some of our most powerful beliefs and traditional characters (God, the hero, the devil, the wizard, the fairy godmother) all exist only in our soloverses. Unicorns, dragons, Santa, astrology, luck, fairness, truth, good and evil, beginning middle and end, physics, etc are all shadows of the structure that our soloverse is running on (our brains, and the pattern matching hierarchies that they are built from) and most likely absent from the universe that they are attempting to model. This quirk is actually really fascinating to explore.
 The soloverse is the most powerful tool we have. The model of the universe that we each have is highly personal, and idiosyncratic to the experiences we’ve had. There are also large portions of which there is probably lots of overlap (common sense, myths, popular culture, things we learn in school, etc). An unhealthy soloverse could lead to poor/misinformed decision-making. An unhealthy soloverse could be responsible for cruelty, prejudice, hatred, wars, and all kinds of other unfortunate things. What could we do to help ourselves and each other have healthier soloverses? Could we address this issue directly and have an impact?
-A comprehensively complete soloverse must also model every other soloverse that exists. In order to build a real “to scale” model of the universe it has to also include every other soloverse out there, including itself. We can’t escape our personal soloverse, but we can make it a more hospitable place to live in the meantime.
-Iterated prisoner's dilemma
 
-I started a new side project in May of 2014 to explore the world of iterated prisoner's dilemma strategies. Basically, an attempt to solve, through games, a philosophical problem: what is the right strategy for being nice vs mean in an unpredictable and changing world? (background on iterated prisoner's dilemma)
-
-This interests me for a number of reasons.
-
-It's an unsolved problem in sociology and psychology: what is the optimal strategy for cooperation/selflessness? Is there one that works in all possible circumstances or is there a logic to how a given set of circumstances creates an optimal strategy?
-It has been explored to some extent, but there is by no means a full exploration of the space. The space to explore is finite, but extremely complex. There is an opportunity for a sufficiently flexible system to make progress on this problem fairly easily.
-I like the idea of using technology to solve a fundamental psychological riddle. It's fun.
-For now I'm just dabbling my toes in the idea, but I hope to slowly make progress on it on hyoomans.com. So far it's probably still too amorphous to have much popular interest. The hook is still buried in technicalities. Hoping to change that in the next couple months.
 
 Beliefs
 
@@ -103,9 +93,7 @@ I must have good intentions
 I must admit to being the maker of my own meaning
 I must not feel sorry for myself
 I must have a vision that I'm are striving for
-I must rally others with my vision
 I must tie creativity and experimentation with survival
-I must be the change I want to see
 I must stake my reputation on my better self
 I must be comfortable with the consequences of being who I am
 I must make my own advice and take it
@@ -113,111 +101,50 @@ I must manage my stress, health, and clarity
 I must study my mistakes
 I must retry things I don’t like every once in a while
 I must go slow, work hard, and avoid shortcuts
-I must cultivate quality time with myself, with others, and with my interests
+I must cultivate quality time with myself, and with my interests
 I must face things that make me uncomfortable
-On Morality
 
-Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others
-Gay marriage should be legal everywhere
-Abortion should be legal everywhere
-Assisted suicide should be legal everywhere
-Health care should be available to everyone who needs it
-The death penalty should be used in extreme and certain cases to protect the public
-Prisons should be about protecting the public, not about punishment
-Marijuana should be legal to grow, sell, buy, and carry
-Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years
-You don't need to ask permission to take responsibility for something that you find important (but you may not get credit)
-On Spirituality
 
 Frequently remembering we will die increases the quality of our life
-Souls don't exist separate from the physical body
-The Gods of organized religion don't exist
-Intention can't create reality (it just primes our perception of it)
-Astrology is entertainment
-Magic and miracles don't exist outside the explanations of science
-There is no heaven/hell
-On Science & The Universe
 
-Chances are, we live in a simulation
-Other dimensions and universes exist
-Micro and macro evolution happens
-Something like the Big Bang happened, and will probably happen again
-Something existed before the Big Bang (outside of time and space as we know them)
-Nothing in our universe can travel faster than light
-The human brain (in its current state of evolution) can't comprehend the universe
-We have no cosmic significance
-Aliens exist
-Non-carbon-based life forms exist
-Space travel throughout the universe is probably entirely the domain of robots and cyborgs
-Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not)
 On Health
 
 We can change our behavior and habits (it requires a lot of energy)
 Consistently eating well and exercising is the only way to be sustainably healthy
-Acupuncture works, somehow
-Vaccinations are good for babies and society
+
 On Technology
 
 Computers will be building better computers than humans by 2050 (the Singularity)
-Humans, computers, and Earth will evolve into a super organism by 2200 (if we're still around)
-Humans that embrace change (and give up some of their humanity) will survive the Singularity
 Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics)
-On The Self
 
-Free will is mostly an illusion (but does exist in limited form)
-Pure altruism is an illusion (but kindness is not)
-We tell stories in order to create and remember meaning
-Consciousness is the result of a feedback loop between our story-making cortex and our subconscious, so that it can better predict/act on long-term threats
-On Privacy
 
-Privacy is just a side effect of people not being truly connected
-People, organizations, and governments will exchange privacy for connection when/if they eventually trust each other
-Future-thinking people, organizations, and governments will make great strides towards being more trustworthy in order to earn this privilege of connection by 2050
-Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
-On Logic
-
-Most questions have no answer (asking them anyway is sometimes entertaining, but nothing else)
-Logic is a helpful tool, but has flaws and can't be relied on entirely
-On Education
-
-Something will replace universities as we currently know them by 2030
 On Politics & The Economy
 
 Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
 In the future, working will be more thoroughly decoupled from having the means to live (see disability trends as proxy for this)
-We'll have a President that admits to being atheist or agnostic by 2025
-Power will be more quickly redistributed when it gets too heavy at the top
-On The Future Of Earth (2100)
 
-Global warming is real and will continue to cause bigger and bigger problems
-There will be 10 billion people
-80% of people will live in cities and new mega-cities by 2100
-The number of living languages in the world will drop to under 100
-Genetically modified foods will become the norm
-Coral reefs and the ocean ecosystems are going to break with unknown consequences
-Solar and wind will slowly replace gas and oil
 On Biases
 
 We tend to favor the beautiful
 We tend to see what we expect to see
 We tend to attribute too much credit to success (and under-credit luck)
+
 On Love
 
 Soulmates exist
 Love at first sight happens
+
 Meta
 
 We have very little control over what we believe in
 Some of my beliefs will be proven wrong
 I'm willing to be convinced that my beliefs are wrong
 Making and maintaining this list is useful and fun (you should do it too)
-Wagers
 
-With Carinna. By 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
-With Rick Webb. By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013).
+
 Personal Canon
 
-Articles I've come back to a bunch of times
+Articles I need to read
 
 The Technology - Paul Buchheit
 Neurons Gone Wild - Kevin Simler
@@ -233,7 +160,8 @@ Stock and Flow - Robin Sloan
 WWIC - Paul Ford
 Top of Mind - Paul Graham
 Fish - Robin Sloan
-Books I've read that have changed how I see the world
+
+Books to read
 
 Waking Up - Sam Harris
 Creativity, Inc - Ed Catmull
@@ -241,51 +169,23 @@ The Fifth Discipline - Peter M. Senge
 Antifragile - Nassim Nicholas Taleb
 Thinking Fast and Slow - Daniel Kahneman
 Strangers To Ourselves - Timothy D. Wilson Deutsch
-My own favorite writing
 
-38 is great: my 5 favorite ideas with my annual review
+
+56 is great: 
 How I track my life: Tracking quality of life with Reporter
 Live Like a Hydra: Thoughts on how to get stronger when things are chaotic.
-The Death Bed Game: He/she who dies with the most death bed points, wins.
-If You Live 100 Times: A tappable essay that plays out 100 lives that you could live.
-Man Versus Himself: a novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
+
 Monthly Reports
-2014: ++----+---
+2014: 
 
 October 1st 2014:
 
-Summary: Amongst other things (that I can't really remember): bought a house, moved in.
+Summary: 
 
-Weight: 179.0 (-0.4)
+Weight: 
 
-Outcome of previous goal: Miss. Did pushups on 0 out of 30 days. Completely fell off the wagon.
+Outcome of previous goal:
 
 New goal: Do pushups on 2 or more days (low bars ftw)
-
-September 1st 2014:
-
-Summary: Amongst other things (that I can't really remember): visited Seattle, went to a wedding.
-
-Weight: didn't weigh myself this month - my scale is out of batteries
-
-Outcome of previous goal: Miss. Did pushups on 1 out of 30 days. Completely fell off the wagon.
-
-New goal: Didn't make a goal for this month. Circumstances have disabled my goal-making momentum.
-
-August 1st 2014:
-
-Summary: Looked at open houses every Sunday, made an offer on a house, lost. Shipped something cool at work. Started a new side project: Valleyball. Went to yoga at work, once, and failed to go back again (even though I'd like to).
-
-Weight: didn't weigh myself this month - my scale is out of batteries
-
-Outcome of previous goal: Miss. Did pushups on 9 out of 31 days... definitely did not continue the trend from last month. Circumstances shifted: lots of guests this month, getting my morning routine out of whack, and we were distracted by making an offer on a house (and all the errands that entails). Also, lots of work stuff: shipping Tweet activity dash, starting a new project, performance reviews, etc. As circumstances shift back into the morning routine's favor, I'm hopping back on the pushup wagon this month.
-
-New goal: Do pushups on 9 or more days.
-
-Codex edits: Added Paul Buchheit's Startup School talk to my personal canon.
-
-July 1st 2014:
-
-Weight: 179.4 (+2.1 - hmmm.)
 
 
