@@ -161,20 +161,20 @@ Thinking Fast and Slow - Daniel Kahneman
 Strangers To Ourselves - Timothy D. Wilson Deutsch
 
 
-56 is great: 
+57 is great: 
 How I track my life: Tracking quality of life with Reporter
 Live Like a Hydra: Thoughts on how to get stronger when things are chaotic.
 
 Monthly Reports
-2014: 
+2015: 
 
-October 1st 2014:
+January 12th 2015:
 
 Summary: 
 
 Weight: 
 
-Outcome of previous goal:
+Outcome of previous goal: Fail on the Do pushups 2 or more days per week.
 
 New goal: Do pushups on 2 or more days (low bars ftw)
 
